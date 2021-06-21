@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Diamond {
-
 	static Scanner input = new Scanner(System.in);
 	public static void main(String[] args) {
 		System.out.print("Sayý: ");
@@ -27,5 +26,4 @@ public class Diamond {
             System.out.println(" ");
         }
 	}
-
 }
